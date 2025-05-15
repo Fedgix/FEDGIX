@@ -8,7 +8,6 @@ import { CoverDemo } from "@/components/demos/cover-demo";
 import BoxReveal from "@/components/ui/box-reveal";
 import { PiCheckBold } from "react-icons/pi";
 import NumberTicker from "@/components/ui/number-ticker";
-import { InfiniteMovingLogos } from "@/components/ui/infinite-moving-logos";
 import { WordPullUpDemo } from "@/components/ui/word-pull-up-demo";
 import { ScrollBasedVelocityDemo } from "@/components/demos/scroll-based-velocity-demo";
 import { AnimatedBeamMultipleOutputDemo } from "@/components/demos/animated-beam-demo";
